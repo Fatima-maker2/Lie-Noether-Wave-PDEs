@@ -6,8 +6,8 @@
 ## Key Result: Disproved "Noether ⊂ Lie" for Infinite Case
 
 **Equation**: $-u_{tt} + c^2 u_{xx} = 0$  
-**Lie symmetries**: Infinite, $F_3(-ct-x) + F_4(-ct+x)$  
-**Noether symmetries**: Infinite, $F_3(-ct-x) + F_4(-ct+x)$  
+**Lie symmetries**: Infinite, $F3(-ct-x) + F4(-ct+x)$  
+**Noether symmetries**: Infinite, $F3(-ct-x) + F4(-ct+x)$  
 **Conclusion**: Cardinality comparison invalid. Literature claim false for infinite symmetries.
 
 **Finite Case**: 4 Lie vs 3 Noether. Noether ⊂ Lie holds.
